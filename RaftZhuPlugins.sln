@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhu物品堆叠数量", "物品堆叠数量\Zhu物品堆叠数量.csproj", "{67CD4FDC-13C6-4EC2-BFB7-B3430C6BD4FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhu无限氧气", "无限氧气\Zhu无限氧气.csproj", "{45B12B45-A4E2-404A-8FFB-7CF091B519A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhu木筏速度", "木筏速度\Zhu木筏速度.csproj", "{A36891F6-B108-431E-A48C-4F02292B8DD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhu物品获取倍数", "物品获取倍数\Zhu物品获取倍数.csproj", "{0FD25521-74C9-4A76-9FCC-A1EDD1DDDE4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhu食物回复倍数", "食物回复倍数\Zhu食物回复倍数.csproj", "{FD7E9C37-9A3C-4B0C-B976-AA02606E64B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhu扩充背包格数", "扩充背包格数\Zhu扩充背包格数.csproj", "{3D0C592E-BF19-4073-8E25-29D2E86BDA4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhu游戏内时空流逝", "游戏内时空流逝\Zhu游戏内时空流逝.csproj", "{0656AB62-6D83-45D9-8CA9-4A07063C8407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhu角色数据修改", "角色数据修改\Zhu角色数据修改.csproj", "{C7D2D927-9ACD-466F-9555-A48213D5A11F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhu建筑无需支撑", "建筑无需支撑\Zhu建筑无需支撑.csproj", "{A1C7B320-7F5C-46B1-BCFB-DFFD2DDA1F8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64CPU = Release|x64CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67CD4FDC-13C6-4EC2-BFB7-B3430C6BD4FC}.Release|x64CPU.ActiveCfg = Release|x64CPU
+		{67CD4FDC-13C6-4EC2-BFB7-B3430C6BD4FC}.Release|x64CPU.Build.0 = Release|x64CPU
+		{45B12B45-A4E2-404A-8FFB-7CF091B519A5}.Release|x64CPU.ActiveCfg = Release|x64CPU
+		{45B12B45-A4E2-404A-8FFB-7CF091B519A5}.Release|x64CPU.Build.0 = Release|x64CPU
+		{A36891F6-B108-431E-A48C-4F02292B8DD7}.Release|x64CPU.ActiveCfg = Release|x64CPU
+		{A36891F6-B108-431E-A48C-4F02292B8DD7}.Release|x64CPU.Build.0 = Release|x64CPU
+		{0FD25521-74C9-4A76-9FCC-A1EDD1DDDE4C}.Release|x64CPU.ActiveCfg = Release|x64CPU
+		{0FD25521-74C9-4A76-9FCC-A1EDD1DDDE4C}.Release|x64CPU.Build.0 = Release|x64CPU
+		{FD7E9C37-9A3C-4B0C-B976-AA02606E64B3}.Release|x64CPU.ActiveCfg = Release|x64CPU
+		{FD7E9C37-9A3C-4B0C-B976-AA02606E64B3}.Release|x64CPU.Build.0 = Release|x64CPU
+		{3D0C592E-BF19-4073-8E25-29D2E86BDA4C}.Release|x64CPU.ActiveCfg = Release|x64CPU
+		{3D0C592E-BF19-4073-8E25-29D2E86BDA4C}.Release|x64CPU.Build.0 = Release|x64CPU
+		{0656AB62-6D83-45D9-8CA9-4A07063C8407}.Release|x64CPU.ActiveCfg = Release|x64CPU
+		{0656AB62-6D83-45D9-8CA9-4A07063C8407}.Release|x64CPU.Build.0 = Release|x64CPU
+		{C7D2D927-9ACD-466F-9555-A48213D5A11F}.Release|x64CPU.ActiveCfg = Release|x64CPU
+		{C7D2D927-9ACD-466F-9555-A48213D5A11F}.Release|x64CPU.Build.0 = Release|x64CPU
+		{A1C7B320-7F5C-46B1-BCFB-DFFD2DDA1F8A}.Release|x64CPU.ActiveCfg = Release|x64CPU
+		{A1C7B320-7F5C-46B1-BCFB-DFFD2DDA1F8A}.Release|x64CPU.Build.0 = Release|x64CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {}
+	EndGlobalSection
+EndGlobal
